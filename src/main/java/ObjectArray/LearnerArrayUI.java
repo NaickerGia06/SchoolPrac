@@ -3,20 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package NumArrays;
+package ObjectArray;
 
 /**
  *
  * @author Gia Naicker
  */
-public class NameScoreUI {
+public class LearnerArrayUI {
 
     public static void main(String[] args) {
-        NameScore a = new NameScore();
-        a.print();
-        a.bubbleSort();
-        a.print();
-        a.delete("Gia");
-        a.print();
+        LearnerArray la = new LearnerArray();
+        //la.functions();
     }
 }

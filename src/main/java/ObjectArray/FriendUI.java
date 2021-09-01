@@ -3,21 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package NumArrays;
+package ObjectArray;
 
 /**
  *
  * @author Gia Naicker
  */
-public class NumArrayUI {
+public class FriendUI {
 
     public static void main(String[] args) {
-        NumArray a = new NumArray();
-        a.bubbleSort();
-        a.print();
-        a.insert(42);
-        a.print();
-        a.deleteDupes();
-        a.print();
+
     }
 }
